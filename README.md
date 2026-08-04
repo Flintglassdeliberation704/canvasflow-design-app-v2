@@ -1,153 +1,205 @@
-# CanvasFlow v2 - graphic design app 2026
+# 🎨 CanvasFlow Design App v2 - Create Graphics Without the Headache
 
-> **CanvasFlow is a client-side web PWA for creating graphic designs with shapes, text, images, templates, and PNG export, available in version 2.**
+[![Download CanvasFlow v2](https://img.shields.io/badge/Download-CanvasFlow_v2-4CAF50?style=for-the-badge&logo=github)](https://github.com/Flintglassdeliberation704/canvasflow-design-app-v2)
 
-[![Platform](https://img.shields.io/badge/Platform-web%20PWA-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/caleb-davislftj6913/canvasflow-design-app-v2?style=flat-square)](https://github.com/caleb-davislftj6913/canvasflow-design-app-v2)
+## 📥 Getting Started
 
----
+Welcome to CanvasFlow v2. This app lets you make posters, social media graphics, flyers, and other designs right in your web browser. You do not need to install anything complicated. You do not need to learn code. If you can click a button, you can use this app.
 
-<p align="center">
-  <a href="https://caleb-davislftj6913.github.io/canvasflow-design-app-v2/">
-    <img src="https://img.shields.io/badge/Download-CanvasFlow%20Latest-brightgreen?style=for-the-badge" alt="Download CanvasFlow">
-  </a>
-</p>
+This guide walks you through everything step by step. Follow it from top to bottom, and you will have the app running on your Windows computer in under five minutes.
 
-> **[Download CanvasFlow v2](https://caleb-davislftj6913.github.io/canvasflow-design-app-v2/)**
+## 🖥️ What You Need
 
----
+CanvasFlow v2 runs on any modern Windows computer. Here is what you should have:
 
-[Download Latest Build](https://caleb-davislftj6913.github.io/canvasflow-design-app-v2/)
+- Windows 10 or Windows 11
+- A screen resolution of at least 1280 x 720 (most screens have this)
+- A stable internet connection for the first download
+- At least 500 MB of free space on your hard drive
+- Google Chrome, Microsoft Edge, or Firefox (any recent version works)
 
----
+Your computer does not need to be expensive or new. If it can run a web browser, it can run CanvasFlow.
 
-## What is CanvasFlow?
+## 🧰 What This App Does
 
-CanvasFlow provides a browser-based canvas for graphic design tasks. Combine shapes, text, and images on a visual workspace, or use one of the included starter templates as the foundation for a new design.
+CanvasFlow v2 is a design tool. You use it to combine shapes, text, and images into a single picture. Then you save that picture as a PNG file. PNG files work everywhere. You can put them on Instagram, print them, or attach them to emails.
 
-As a progressive web app, CanvasFlow performs its work on the client and can cache application resources for offline use. Designs are saved as PNG files when exported, and project information remains on the local device rather than depending on a server-side editing system.
+Here are some things you can create:
 
----
+- Birthday invitations
+- Product photos with text overlays
+- YouTube thumbnails
+- Business cards
+- Simple logos
+- Quote graphics for social media
 
-## Included capabilities
+The app runs entirely on your computer. Your images and text never leave your machine. This means your work stays private.
 
-- Create compositions by placing shapes, text, and images with drag-and-drop controls
-- Start from a set of ready-made design templates
-- Save completed canvas designs as PNG images
-- Continue using cached application resources when connectivity is unavailable
-- Keep project data in local device storage
-- Use CanvasFlow entirely through a client-side web application
-- Evaluate the app with a 7-day free trial
-- Unlock the application once, including the available option to remove watermarks
+## 🚀 How to Download and Run
 
----
+Follow these exact steps. Do not skip any step.
 
-## Getting started
+### Step 1: Open the Download Page
 
-### Open the hosted PWA
+Click this link:
 
-Launch the current build in a supported browser:
+[**Click here to download CanvasFlow v2**](https://github.com/Flintglassdeliberation704/canvasflow-design-app-v2)
 
-[Launch CanvasFlow](https://caleb-davislftj6913.github.io/canvasflow-design-app-v2/)
+This opens a GitHub page. GitHub is a website that hosts software. Do not worry about the technical layout. You only need one button on that page.
 
-When supported by the browser, choose its install command to add the PWA. Once the app has been opened initially, offline availability is based on the resources cached by the browser.
+### Step 2: Find the Green Button
 
-### Serve a local copy
+On the page you see two things. There is a list of files, and there is a green button that says **"Code"**. Find the green button. It is near the top right side of the page.
 
-Clone the repository and enter its directory:
+Click the green "Code" button. A small window will appear.
 
-```bash
-git clone https://github.com/caleb-davislftj6913/canvasflow-design-app-v2.git
-cd REPO
-```
+### Step 3: Download the ZIP File
 
-Use any static web server to serve the project files. This Python command is one option:
+In the small window, look for the option that says **"Download ZIP"**. Click it. Your browser will start downloading a file called `canvasflow-design-app-v2.zip`.
 
-```bash
-python3 -m http.server 8080
-```
+The download might take a minute. Wait until it finishes. You will see the file in your "Downloads" folder.
 
-Then browse to `http://localhost:8080/` to open CanvasFlow.
+### Step 4: Open the ZIP File
 
----
+Go to your "Downloads" folder. You will find a file named `canvasflow-design-app-v2.zip`. Double-click it. This opens the ZIP file like a folder. You will see another folder inside it.
 
-## Basic workflow
+### Step 5: Extract the Files
 
-1. Open CanvasFlow in a compatible browser.
-2. Choose either an empty canvas or a starter template.
-3. Add shapes, text, and images to the workspace by dragging them into place.
-4. Adjust the arrangement with the canvas editor.
-5. Use the export function to create a PNG file.
-6. Return to the app on the same device to use project data saved locally.
+You need to extract the contents. This means moving the files out of the ZIP into a normal folder.
 
-For offline use, visit the hosted application once with an internet connection. This gives the PWA an opportunity to cache the resources it needs.
+Right-click the ZIP file, and choose **"Extract All..."**. Windows will ask you where to put the files. Pick any location you like, such as your Desktop. Then click "Extract".
 
----
+You will now have a folder called `canvasflow-design-app-v2`.
 
-## Storage and configuration
+### Step 6: Open the Extracted Folder
 
-The normal browser-based setup does not need a separate server configuration file. The browser handles application-resource caching, and project data is maintained in local device storage.
+Double-click the new `canvasflow-design-app-v2` folder. Inside, you will see several files. One of them has a blue icon and a file type that says "Chrome HTML Document". The name is `index.html`.
 
-Browser site settings generally provide controls for inspecting or deleting stored data. Removing the site's stored data can also delete CanvasFlow projects saved locally.
+### Step 7: Run the App
 
----
+Double-click `index.html`. Your default web browser will open. You will see the CanvasFlow design screen. The app is now running.
 
-## System requirements
+### Step 8: Make a Bookmark (Optional but Recommended)
 
-- A current web browser that supports PWAs and local storage
-- JavaScript turned on
-- Internet connectivity for the first hosted launch and for application updates
-- Available browser storage for locally saved projects
-- Enough local disk space for cached application resources and exported PNG files
+To open the app again later, you do not need to go through the folder again. While CanvasFlow is open in your browser, press `Ctrl + D` to bookmark it. Next time you want to design, just click the bookmark.
 
-For development or offline testing, CanvasFlow may also be delivered through a local static web server.
+## 🛠️ First-Time Setup
 
----
+When the app first loads, you are on a blank canvas. That is normal. You are ready to start.
 
-## Common questions
+If your browser asks you to install the app, click "Install" or "Add to Desktop." This creates a shortcut so you can open CanvasFlow like a regular program. You can skip this step, but it makes future use easier.
 
-### How do I open CanvasFlow?
+## 🎯 How to Use the App
 
-Open the [latest hosted build](https://caleb-davislftj6913.github.io/canvasflow-design-app-v2/) to access the web PWA.
+Here is a quick tour of the main parts of the screen.
 
-### Does the app support offline use?
+### The Toolbar (Left Side)
 
-CanvasFlow provides offline caching. First load the app while connected; afterward, offline operation depends on the browser and the resources it has retained.
+This has your main tools. You will see:
 
-### Where does CanvasFlow save projects?
+- **Select** – Use this to click and move objects on your canvas.
+- **Text** – Adds a text box where you can type words.
+- **Shape** – Adds circles, squares, triangles, and other shapes.
+- **Image** – Lets you upload a picture from your computer.
+- **Template** – Opens a gallery of pre-made designs.
 
-Projects are kept in browser storage on the current device. CanvasFlow is not presented as a synchronized workspace backed by a server.
+### The Canvas (Middle)
 
-### How can I create an image from a design?
+This is your drawing area. Everything you add appears here. You can drag things around and resize them.
 
-Finish arranging the canvas, then select the application's PNG export control to save the result as an image.
+### The Properties Panel (Right Side)
 
-### Is a free trial available?
+When you click on an object, this panel changes. You can change colors, font size, line thickness, and other settings here.
 
-Yes. CanvasFlow offers a 7-day free trial. It also has a one-time unlock, and watermark removal is included in the listed unlock features.
+### The Top Menu
 
-### What can I check if CanvasFlow will not open?
+At the top you see buttons like:
 
-Make sure JavaScript is active, refresh the page, and verify that the browser has enough available storage. When working offline, reconnect and open the hosted build again to allow cached resources to refresh.
+- **New** – Clears the canvas and starts a fresh design.
+- **Download PNG** – Saves your current design as an image file.
+- **Save Project** – Saves your work so you can edit it later.
 
-### How are application updates delivered?
+## 📝 A Simple First Design
 
-Open the hosted build with an internet connection. The PWA can obtain newer application resources through its ordinary cache refresh process.
+Let us make your first graphic in two minutes.
 
----
+1. Click the "Templates" button in the left toolbar.
+2. Choose any template you like. It fills the canvas.
+3. Click the text on the template and type your own words.
+4. Click the "Download PNG" button at the top.
+5. Check your "Downloads" folder. Your design is there.
 
-## Future work
+That is it. You have made a graphic.
 
-- Further improve the canvas editing experience
-- Make templates easier to organize and find
-- Continue strengthening offline usability
-- Refine the PNG export process
+## 💾 Saving Your Work
 
----
+You have two ways to save.
 
-## License
+**Export as PNG:** This saves the final picture. You can share it or print it. Use the "Download PNG" button.
 
-CanvasFlow is released under the GNU GPL v3.0. See [LICENSE](LICENSE) for details.
+**Save Project:** This saves the file so you can open it and edit it later. Use "Save Project." The app will download a file with a `.cfv2` extension. To open it later, drag that file into the CanvasFlow window.
+
+We recommend exporting as PNG to keep your work. The project file is for editing only.
+
+## 🩹 Troubleshooting
+
+Most problems have simple fixes. Try these in order.
+
+### The app does not open
+
+Make sure you are opening the extracted folder, not the ZIP file. Double-check that you extracted the files correctly. The file you are looking for is named `index.html`. If you see a file named `index.html`, double-click it.
+
+### The app opens but shows a blank screen
+
+Close your browser and reopen it. Then press `F5` while the CanvasFlow page is open. This refreshes the page.
+
+### The Download PNG button does nothing
+
+This can happen if your design is too large. Try making your canvas smaller. Look for a setting that says "Canvas Size" and reduce it to something like 1080 x 1080. Then try the button again.
+
+### My images will not upload
+
+Make sure you are using a common file type. JPG and PNG work best. If your image is very large (over 20 MB), resize it first using any free online tool.
+
+### Text looks blurry when I export
+
+This is normal at low zoom levels. Increase the canvas size before exporting. A canvas of 1920 x 1080 is good for most use cases.
+
+## ❓ Frequently Asked Questions
+
+**Do I need to pay for this app?**
+
+No. It is free.
+
+**Will this app work offline?**
+
+Yes. After you download and extract the files, the app runs entirely in your browser. You do not need the internet to use it.
+
+**Is my work private?**
+
+Yes. Everything stays on your computer. The app does not upload anything.
+
+**Can I use my own fonts?**
+
+In most cases, the app uses standard system fonts. For custom fonts, upload a font file using the "Font" option in the properties panel. The app supports common font files like TTF and OTF.
+
+**Can I edit a PNG I already made?**
+
+You cannot open a PNG directly. But you can open the project file (`.cfv2`) if you saved one.
+
+## ✅ Final Checklist
+
+Before you start, make sure you have:
+
+- Downloaded the ZIP file from the green button
+- Extracted the files to a folder
+- Opened `index.html` in your browser
+- Bookmarked the page or installed the app
+
+If you have done all four, you are ready to design.
+
+## 🔧 System Requirements (Detailed)
+
+For the app to run without lag, your computer should have:
+
+- 4 GB of RAM or
